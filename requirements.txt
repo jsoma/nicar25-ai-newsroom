@@ -147,7 +147,7 @@ nltk
 notebook
 notebook_shim
 numba
-numpy
+numpy<2
 oauthlib
 omegaconf
 onnxruntime
