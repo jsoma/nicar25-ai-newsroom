@@ -278,4 +278,5 @@ whisperx
 widgetsnbextension
 wrapt
 yarl
+yt-dlp
 zipp
