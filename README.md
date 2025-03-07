@@ -6,6 +6,10 @@ Jonathan Soma
 
 jonathan.soma@gmail.com / [@dangerscarf](https://twitter.com/dangerscarf) / [jonathansoma.com](https://jonathansoma.com/)
 
+## Using this on the cloud
+
+[Visit Google Colab here](http://colab.research.google.com/github/jsoma/nicar25-ai-newsroom/)
+
 ## NICAR computer setup instructions you can probably ignore
 
 I mean you can also run this on your computer I guess but no guarantees!
